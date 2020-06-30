@@ -1,1 +1,1 @@
-# Azure_data_studio_SQL_basic
+# Azure Data Studio เป็นโปรแกรมที่ทำให้เราเชื่อมต่อกับ SQL Server, Azure SQL Database เพื่อเขียนคำสั่งบื้องต้น
